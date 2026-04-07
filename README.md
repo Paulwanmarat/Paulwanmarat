@@ -80,10 +80,7 @@ goal: "Computer Engineering @ Kasetsart University 💡"
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 </details>
 
@@ -95,23 +92,6 @@ goal: "Computer Engineering @ Kasetsart University 💡"
 |---------|-------------|--------------|
 | **[SPR Picture 2.0 Web App](https://sprpic.com)** | Built a high-performance, cinematic Next-Gen interface serving the student organization creatively. Implemented advanced `Awwwards`-styled entrance gates, interactive 3D Carousels, and intricate Web Animations. | **Frontend Lead** <br> `React`, `TS`, `Tailwind`, `Framer Motion` |
 | **Autonomous Robotics** *(Ongoing)* | Developing logic constraints and mapping nodes for real-world movement and hardware precision using ROS architectures. | **Robotics Engineer** <br> `ROS`, `C++`, `Python` |
-
----
-
-## 📈 Dev Analytics
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Paulwanmarat&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Paul's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulwanmarat&theme=tokyonight&hide_border=true&background=0d1117" alt="Paul's GitHub Streak" />
-
-</div>
 
 ---
 
