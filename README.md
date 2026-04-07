@@ -5,21 +5,18 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=❖+SYSTEM+HACKED+%3E+LOADING+PAUL.SYS...;❖+AUTHENTICATING+ADMINISTRATOR...;❖+ACCESS+GRANTED.+WELCOME+BACK." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=❖+SYSTEM+HACKED+%3E+LOADING+PHANYAWAT.SYS...;❖+AUTHENTICATING+ADMINISTRATOR...;❖+ACCESS+GRANTED.+WELCOME+BACK." />
 
 <br>
 
 <!-- MASSIVE ASCII TITLE -->
 ```text
-  ██▓███   ▄▄▄       ██▓ ██▓    
- ▓██░  ██▒▒████▄    ▓██▒▓██▒    
- ▓██░ ██▓▒▒██  ▀█▄  ▒██▒▒██░    
- ▒██▄█▓▒ ▒░██▄▄▄▄██ ░██░▒██░    
- ▒██▒ ░  ░ ▓█   ▓██▒░██░░██████▒
- ▒▓▒░ ░  ░ ▒▒   ▓▒█░░▓  ░ ▒░▓  ░
- ░▒ ░       ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
- ░░         ░   ▒    ▒ ░  ░ ░   
-                ░  ░ ░      ░  ░
+  ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗ ██╗    ██╗ █████╗ ████████╗
+  ██╔══██╗██║  ██║██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗██║    ██║██╔══██╗╚══██╔══╝
+  ██████╔╝███████║███████║██╔██╗ ██║ ╚████╔╝ ███████║██║ █╗ ██║███████║   ██║   
+  ██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║██║███╗██║██╔══██║   ██║   
+  ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ██║  ██║╚███╔███╔╝██║  ██║   ██║   
+  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   
 ```
 
 <!-- STATUS BADGES -->
@@ -133,7 +130,6 @@
 | **`autonomous-guest-bot`** | Autonomous robot detecting & interacting with guests using **ROS** | `<ROS>` `<Python>` `<CV>` |
 | **`smart-cane-esp32`** | ESP32 + GPS + LINE API for enhanced mobility & tracking | `<ESP32>` `<C++>` `<IoT>` |
 | **`3D-robot-arm`** | Custom 3D printed robotic arm engineered for competitions | `<Hardware>` `<Arduino>` |
-| **`face-recognition-web`** | Web-based facial recognition attendance system | `<React>` `<OpenCV>` |
 
 </div>
 
