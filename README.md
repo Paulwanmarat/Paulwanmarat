@@ -87,17 +87,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=25&duration=3000&pause=500&color=b000ff&center=true&vCenter=true&width=800&height=40&lines=>>+FETCHING+LIVE+SYSTEM+TELEMETRY+..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=25&duration=3000&pause=500&color=b000ff&center=true&vCenter=true&width=800&height=40&lines=>>+FETCHING+LIVE+SYSTEM+TELEMETRY+..." />
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-paulpywts-projects.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-96xb2unxo-paulpywts-projects.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true" />
 
   <img src="https://streak-stats.demolab.com?user=Paulwanmarat&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-paulpywts-projects.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-96xb2unxo-paulpywts-projects.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
