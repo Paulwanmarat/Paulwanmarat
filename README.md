@@ -92,11 +92,13 @@
 <br>
 
 <p align="center">
-  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-paulpywts-projects.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true" />
+
   <img src="https://streak-stats.demolab.com?user=Paulwanmarat&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-paulpywts-projects.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true" />
+
 </p>
 
 </div>
