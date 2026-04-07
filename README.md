@@ -93,7 +93,7 @@ and teach you why. Every bug is a lesson. Every sensor glitch is a puzzle.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulwanmarat@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paul.pywt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulwanmarat)
-[![SPR School](https://img.shields.io/badge/🏫%20Saipanya%20Rangsit-0057A8?style=for-the-badge&logoColor=white)](https://sprpic.com)
+[![SPR School](https://img.shields.io/badge/%20SPR%20Picture-0057A8?style=for-the-badge&logoColor=white)](https://sprpic.com)
 
 *Open to collaborating on robotics projects, embedded systems, and anything that moves! 🤖*
 
