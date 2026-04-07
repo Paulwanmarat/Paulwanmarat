@@ -1,20 +1,25 @@
 <div align="center">
 
-<!-- LAYER 1: Venom capsule header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=00D9FF&height=200&text=PAUL.SYS&fontSize=70&fontColor=00D9FF&animation=twinkling" />
+<!-- LAYER 1: Waving top border -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a2e,100:003344&height=120&section=header" width="100%" />
+
+<!-- LAYER 2: Glitch header image -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=50&duration=4000&pause=99999&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=%E2%9F%A8+PAUL.SYS+%E2%9F%A9" />
+
+<br>
 
 ```
                                                                               
-    ██████╗  █████╗ ██╗   ██╗██╗        ██╗    ██╗ █████╗ ███╗   ██╗         
-    ██╔══██╗██╔══██╗██║   ██║██║        ██║    ██║██╔══██╗████╗  ██║         
-    ██████╔╝███████║██║   ██║██║        ██║ █╗ ██║███████║██╔██╗ ██║         
-    ██╔═══╝ ██╔══██║██║   ██║██║        ██║███╗██║██╔══██║██║╚██╗██║         
-    ██║     ██║  ██║╚██████╔╝███████╗   ╚███╔███╔╝██║  ██║██║ ╚████║         
-    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝         
+    ██████╗  █████╗ ██╗   ██╗██╗         ██╗    ██╗ █████╗ ███╗   ██╗        
+    ██╔══██╗██╔══██╗██║   ██║██║         ██║    ██║██╔══██╗████╗  ██║        
+    ██████╔╝███████║██║   ██║██║         ██║ █╗ ██║███████║██╔██╗ ██║        
+    ██╔═══╝ ██╔══██║██║   ██║██║         ██║███╗██║██╔══██║██║╚██╗██║        
+    ██║     ██║  ██║╚██████╔╝███████╗    ╚███╔███╔╝██║  ██║██║ ╚████║        
+    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝        
                                                                               
-    ═══════════════════════════════════════════════════════════════            
-    ║  R O B O T I C S   E N G I N E E R  //  C R E A T I V E   D E V  ║    
-    ═══════════════════════════════════════════════════════════════            
+    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓        
+    ┃  R O B O T I C S   E N G I N E E R  ░░  C R E A T I V E  D E V  ┃        
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛        
 ```
 
 <!-- LAYER 2: Matrix typing -->
