@@ -31,7 +31,7 @@
 <!-- TROPHIES -->
 <br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paulwanmarat&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Paulwanmarat&theme=radical&no-frame=true&no-bg=true&margin-w=15&cache_seconds=1800" />
 </a>
 
 
@@ -51,7 +51,7 @@
   <td width="30%" align="center">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 10px; border: 1px solid #00D9FF;" />
     <br><br>
-    <img src="https://media.giphy.com/media/VbVKjj1hXf2eQO4O6p/giphy.gif" width="100%" style="border-radius: 10px; border: 1px solid #b000ff;" />
+    <img src="https://media.giphy.com/media/VbVKjj1hXf2eQO4O6p/giphy.gif" width="100%" />
   </td>
   <td width="70%">
 
@@ -92,11 +92,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulwanmarat&theme=radical&hide_border=true&background=0D1117" />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Paulwanmarat&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 </div>
