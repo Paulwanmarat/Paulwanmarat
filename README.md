@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=❖+SYSTEM+HACKED+%3E+LOADING+PAUL.SYS...;❖+AUTHENTICATING+ADMINISTRATOR...;❖+ACCESS+GRANTED.+WELCOME+BACK." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=❖+SYSTEM+HACKED+%3E+LOADING+PAUL.SYS...;❖+AUTHENTICATING+ADMINISTRATOR...;❖+ACCESS+GRANTED.+WELCOME+BACK." />
 
 <br>
 
