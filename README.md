@@ -1,42 +1,66 @@
-<!--
- ██████╗  █████╗ ██╗   ██╗██╗         ███████╗██╗   ██╗███████╗
- ██╔══██╗██╔══██╗██║   ██║██║         ██╔════╝╚██╗ ██╔╝██╔════╝
- ██████╔╝███████║██║   ██║██║         ███████╗ ╚████╔╝ ███████╗
- ██╔═══╝ ██╔══██║██║   ██║██║         ╚════██║  ╚██╔╝  ╚════██║
- ██║     ██║  ██║╚██████╔╝███████╗    ███████║   ██║   ███████║
- ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚══════╝   ╚═╝   ╚══════╝
-                     [ SYSTEM ONLINE ]
--->
-
 <div align="center">
 
+<!-- LAYER 1: Venom capsule header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=00D9FF&height=200&text=PAUL.SYS&fontSize=70&fontColor=00D9FF&animation=twinkling" />
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ╔═╗╔═╗╦ ╦╦    ┬ ┬┌─┐┌┐┌┌┬┐┌─┐┬─┐┌─┐┌┬┐                  │
-│   ╠═╝╠═╣║ ║║    │││├─┤│││││││├─┤├┬┘├─┤ │                   │
-│   ╩  ╩ ╩╚═╝╩═╝  └┴┘┴ ┴┘└┘┴ ┴┴ ┴┴└─┴ ┴ ┴                   │
-│                                                              │
-│   [>] STATUS    : ONLINE                                     │
-│   [>] ROLE      : Robotics Engineer // Full-Stack Dev        │
-│   [>] LOCATION  : Bangkok, Thailand 🇹🇭                       │
-│   [>] TARGET    : Computer Engineering @ KU 🌿               │
-│   [>] CLEARANCE : MEP-SMT M.6 — Saipanya Rangsit            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                                                                              
+    ██████╗  █████╗ ██╗   ██╗██╗        ██╗    ██╗ █████╗ ███╗   ██╗         
+    ██╔══██╗██╔══██╗██║   ██║██║        ██║    ██║██╔══██╗████╗  ██║         
+    ██████╔╝███████║██║   ██║██║        ██║ █╗ ██║███████║██╔██╗ ██║         
+    ██╔═══╝ ██╔══██║██║   ██║██║        ██║███╗██║██╔══██║██║╚██╗██║         
+    ██║     ██║  ██║╚██████╔╝███████╗   ╚███╔███╔╝██║  ██║██║ ╚████║         
+    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝         
+                                                                              
+    ═══════════════════════════════════════════════════════════════            
+    ║  R O B O T I C S   E N G I N E E R  //  C R E A T I V E   D E V  ║    
+    ═══════════════════════════════════════════════════════════════            
 ```
 
+<!-- LAYER 2: Matrix typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%24+ssh+paul%40robotics.dev;%24+cat+%2Fetc%2Fskills.conf;Robotics+%7C+ROS1+%7C+ROS2+%7C+Embedded;React+%7C+TypeScript+%7C+Tailwind+%7C+Vite;%24+echo+%22Building+the+future%22;%3E+Awaiting+input..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%5BSYS%5D+Initializing+PAUL.SYS+v2.0...;%5BSYS%5D+Loading+modules%3A+ROS+%7C+React+%7C+Embedded;%5BSYS%5D+Status%3A+OPERATIONAL+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" />
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/🟢_SYS_STATUS-OPERATIONAL-00ff00?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🔒_CLEARANCE-LEVEL_5-00D9FF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📡_UPLINK-ACTIVE-00D9FF?style=flat-square&labelColor=0d1117" />
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ┌─ SYSTEM IDENTITY ─────────────────────────────────────────────┐  ║
+║   │                                                                │  ║
+║   │   [■] OPERATOR    : Paul Wanmarat                              │  ║
+║   │   [■] CALLSIGN    : @paulwanmarat                              │  ║
+║   │   [■] NODE        : Bangkok, Thailand                          │  ║
+║   │   [■] CLEARANCE   : MEP-SMT M.6 — Saipanya Rangsit            │  ║
+║   │   [■] DIRECTIVE   : Computer Engineering @ Kasetsart           │  ║
+║   │                                                                │  ║
+║   │   [■] PROTOCOLS   : ROS1 / ROS2 / Arduino / C++ / Python      │  ║
+║   │   [■] INTERFACES  : React / TypeScript / Tailwind / Vite       │  ║
+║   │                                                                │  ║
+║   └────────────────────────────────────────────────────────────────┘  ║
+║                                                                      ║
+║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SYSTEM LOAD: 100%        ║
+║   [ONLINE]  [SECURE]  [UPLINK]  [ARMED]                              ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<!-- LAYER 3: Status badges -->
+<img src="https://img.shields.io/badge/🟢_SYS-ONLINE-00ff00?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔒_SEC-LEVEL_5-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📡_NET-UPLINK-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⚡_PWR-ARMED-ff3333?style=for-the-badge&labelColor=0d1117" />
+
+<!-- LAYER 4: Snake contribution graph -->
+<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
