@@ -1,101 +1,151 @@
+<!-- 
+///////////////////////////////////////////////////////
+// WELCOME TO THE ACTUAL MATRIX.
+// WARNING: High-Octane Developer Profile Below
+///////////////////////////////////////////////////////
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Hello,%20I'm%20Paul!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Robotics%20Engineer%20&%20Full-Stack%20Developer&descAlign=50&descAlignY=55" />
+<!-- CYBER-THEMED CAPSULE GRAPHIC -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=PAUL.sys&fontSize=70&fontAlign=50&fontAlignY=35&desc=Robotics_Engineer%20//%20Creative_Dev&descAlign=50&descAlignY=55" />
 
-### M.6 · MEP-SMT · Saipanya Rangsit School
-*Building systems that bridge the gap between hardware and beautiful interfaces.*
+<!-- TERMINAL BOOT SEQUENCE TYPING EFFECT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Terminal+Started...;Robotics+%26+Embedded+Systems;Mastered+%2F+ROS1+%2F+ROS2;C%2B%2B+%7C+Python+%7C+Arduino;Future+Computer+Engineer+%40+KU+%F0%9F%8C%BF;Web+Development+%7C+React+%7C+TS;>+Awaiting_Input_..." />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=+%26+Embedded+Systems;Mastered+%2F+ROS1+%2F+ROS2;C%2B%2B+%7C+Python+%7C+Arduino;Future+Computer+Engineer+%40+KU+%F0%9F%8C%BF;Web+Development+%7C+React+%7C+TS;Building+Aesthetics+%7C+Tailwind+%7C+Framer)](https://git.io/typing-svg)
+<br><br>
+
+<!-- SYSTEM STATUS INDICATORS -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ROLE-MEP--SMT%20M.6-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYS_LOCATION-THAILAND_TH-e02424?style=for-the-badge" />
 
 </div>
 
----
+<br><br>
+
+<div align="center">
+  <h3>/// [ MODULE_01 ] : DIRECTIVE ///</h3>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+    </td>
+    <td width="50%">
+<pre>
+<code><b>Paul (He/Him)</b>
+> Exploring the intersection of metal and code.
+
+[!] Target Achieved:
+    - Designing real-world Autonomous Robots
+    - Bridging ROS Frameworks
+
+[!] Current Mission:
+    - Computer Engineering @ Kasetsart University
+    - Expanding Deep-Tier Full-Stack skills
+</code>
+</pre>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <h3>/// [ MODULE_02 ] : ARCHITECTURE_MODE ///</h3>
+</div>
 
 <table align="center" width="100%">
 <tr>
-<td width="55%">
+<th align="center" width="50%">
+ ⚙️ HARDWARE PROTOCOLS
+</th>
+<th align="center" width="50%">
+ 🌐 SOFTWARE INTERFACES
+</th>
+</tr>
+<tr>
+<td align="center">
 
-## 🤖 About Me
-
-```yaml
-name        : Paul
-school      : Saipanya Rangsit School (SPR)
-program     : MEP-SMT (M.6)
-location    : Thailand 🇹🇭
-
-focus:
-  - Autonomous System Development
-  - ROS1/ROS2 Architecture
-  - Front-End Engineering & Cinematic UI
-
-goal: "Computer Engineering @ Kasetsart University 💡"
+```cpp
+class Paul : public Engineer {
+public:
+  void init() {
+    system.load(ROS1, ROS2);
+    hardware.attach(Arduino, RaspberryPi);
+  }
+  
+  void execute() {
+    while(autonomous) {
+      navigate_world();
+      solve_problems();
+    }
+  }
+};
 ```
+*Hardware engineered for real-world failure.*
 
 </td>
-<td width="45%" align="center">
+<td align="center">
 
-## 📬 Connect
-
-<br>
-<a href="mailto:paulwanmarat@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><br><br>
-<a href="https://instagram.com/paul.pywt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><br><br>
-<a href="https://github.com/Paulwanmarat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br><br>
-<a href="https://sprpic.com"><img src="https://img.shields.io/badge/🌐_Official_Site-0057A8?style=for-the-badge&logoColor=white" /></a>
+```typescript
+const paul: Engineer = {
+  stack: ["React", "TypeScript", "Tailwind"],
+  framework: "Cinematic UI/UX",
+  animations: "Framer Motion",
+  
+  execute: async () => {
+    return await render({
+      performance: "Blazing",
+      aesthetics: "Awwwards-Tier"
+    });
+  }
+};
+```
+*Web apps built with robotic precision.*
 
 </td>
 </tr>
 </table>
 
----
-
-## ⚡ Technical Arsenal
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚙️ Embedded & Robotics</h3>
-      <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>💻 Core Languages</h3>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🌐 Frontend Engineering</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br><br>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>🛠️ Click to view development tools & OS preferences</b></summary>
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-</details>
-
----
-
-## 🚀 Featured Work
-
-| Project | Description | Role / Stack |
-|---------|-------------|--------------|
-| **[SPR Picture 2.0 Web App](https://sprpic.com)** | Built a high-performance, cinematic Next-Gen interface serving the student organization creatively. Implemented advanced `Awwwards`-styled entrance gates, interactive 3D Carousels, and intricate Web Animations. | **Frontend Lead** <br> `React`, `TS`, `Tailwind`, `Framer Motion` |
-| **Autonomous Robotics** *(Ongoing)* | Developing logic constraints and mapping nodes for real-world movement and hardware precision using ROS architectures. | **Robotics Engineer** <br> `ROS`, `C++`, `Python` |
-
----
 
 <div align="center">
+  <h3>/// [ MODULE_03 ] : ACTIVE_LOADOUT ///</h3>
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,ros,arduino,raspberrypi&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,figma,linux,git,vscode&theme=dark" />
+</p>
+
+<br>
+
+<div align="center">
+  <h3>/// [ MODULE_04 ] : CURRENT_DEPLOYMENTS ///</h3>
+</div>
+
+| SYSTEM ID | OPERATION DESCRIPTION | FIREWALL STACK |
+|-----------|-----------------------|----------------|
+| **[SPR Picture 2.0 Web App](https://sprpic.com)** | Built a high-performance, cinematic Next-Gen interface serving the student organization creatively. Implemented advanced entrance gates, interactive 3D Carousels, and intricate Web Animations. | `React`, `TS`, `Tailwind`, `Framer Motion` |
+| **Autonomous Robotics System** | Developing logic constraints and mapping nodes for real-world movement and hardware precision using ROS architectures. | `ROS`, `C++`, `Python` |
+
+<br>
+
+<div align="center">
+  <h3>/// [ PING_REQUEST ] : INITIATE_HANDSHAKE ///</h3>
+
+<a href="mailto:paulwanmarat@gmail.com"><img src="https://img.shields.io/badge/Direct_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/paul.pywt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://sprpic.com"><img src="https://img.shields.io/badge/🌐_Access_Server-0057A8?style=for-the-badge&logoColor=white" /></a>
+
+<br><br>
 
 > *"Don't just simulate — build something that moves in the real world."*
 
@@ -106,6 +156,5 @@ goal: "Computer Engineering @ Kasetsart University 💡"
 ╚═════════════════════════════════════════════════════╝
 ```
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Paulwanmarat.Paulwanmarat&left_color=gray&right_color=00D9FF)
-
+![Visitor System Node](https://visitor-badge.laobi.icu/badge?page_id=Paulwanmarat.Paulwanmarat&left_color=gray&right_color=00D9FF)
 </div>
