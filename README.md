@@ -1,33 +1,57 @@
-<!-- 
-///////////////////////////////////////////////////////
-// WELCOME TO THE ACTUAL MATRIX.
-// WARNING: High-Octane Developer Profile Below
-///////////////////////////////////////////////////////
+<!--
+ ██████╗  █████╗ ██╗   ██╗██╗         ███████╗██╗   ██╗███████╗
+ ██╔══██╗██╔══██╗██║   ██║██║         ██╔════╝╚██╗ ██╔╝██╔════╝
+ ██████╔╝███████║██║   ██║██║         ███████╗ ╚████╔╝ ███████╗
+ ██╔═══╝ ██╔══██║██║   ██║██║         ╚════██║  ╚██╔╝  ╚════██║
+ ██║     ██║  ██║╚██████╔╝███████╗    ███████║   ██║   ███████║
+ ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚══════╝   ╚═╝   ╚══════╝
+                     [ SYSTEM ONLINE ]
 -->
 
 <div align="center">
 
-<!-- CYBER-THEMED CAPSULE GRAPHIC -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=PAUL.sys&fontSize=70&fontAlign=50&fontAlignY=35&desc=Robotics_Engineer%20//%20Creative_Dev&descAlign=50&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=00D9FF&height=200&text=PAUL.SYS&fontSize=70&fontColor=00D9FF&animation=twinkling" />
 
-<!-- TERMINAL BOOT SEQUENCE TYPING EFFECT -->
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ╔═╗╔═╗╦ ╦╦    ┬ ┬┌─┐┌┐┌┌┬┐┌─┐┬─┐┌─┐┌┬┐                  │
+│   ╠═╝╠═╣║ ║║    │││├─┤│││││││├─┤├┬┘├─┤ │                   │
+│   ╩  ╩ ╩╚═╝╩═╝  └┴┘┴ ┴┘└┘┴ ┴┴ ┴┴└─┴ ┴ ┴                   │
+│                                                              │
+│   [>] STATUS    : ONLINE                                     │
+│   [>] ROLE      : Robotics Engineer // Full-Stack Dev        │
+│   [>] LOCATION  : Bangkok, Thailand 🇹🇭                       │
+│   [>] TARGET    : Computer Engineering @ KU 🌿               │
+│   [>] CLEARANCE : MEP-SMT M.6 — Saipanya Rangsit            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Terminal+Started...;Robotics+%26+Embedded+Systems;Mastered+%2F+ROS1+%2F+ROS2;C%2B%2B+%7C+Python+%7C+Arduino;Future+Computer+Engineer+%40+KU+%F0%9F%8C%BF;Web+Development+%7C+React+%7C+TS;>+Awaiting_Input_..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%24+ssh+paul%40robotics.dev;%24+cat+%2Fetc%2Fskills.conf;Robotics+%7C+ROS1+%7C+ROS2+%7C+Embedded;React+%7C+TypeScript+%7C+Tailwind+%7C+Vite;%24+echo+%22Building+the+future%22;%3E+Awaiting+input..." />
 </a>
 
-<br><br>
+<br>
 
-<!-- SYSTEM STATUS INDICATORS -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ROLE-MEP--SMT%20M.6-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SYS_LOCATION-THAILAND_TH-e02424?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🟢_SYS_STATUS-OPERATIONAL-00ff00?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔒_CLEARANCE-LEVEL_5-00D9FF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📡_UPLINK-ACTIVE-00D9FF?style=flat-square&labelColor=0d1117" />
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
-  <h3>/// [ MODULE_01 ] : DIRECTIVE ///</h3>
+
+```
+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+ ┃  ░█▀▄░█▀█░▀█▀░█▀█░░░█▀▀░▀█▀░█▀▄░█▀▀░█▀█░█▄█  ┃
+ ┃  ░█░█░█▀█░░█░░█▀█░░░▀▀█░░█░░█▀▄░█▀▀░█▀█░█░█  ┃
+ ┃  ░▀▀░░▀░▀░░▀░░▀░▀░░░▀▀▀░░▀░░▀░▀░▀▀▀░▀░▀░▀░▀  ┃
+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
 </div>
 
 <table align="center" width="100%">
@@ -36,86 +60,136 @@
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
     </td>
     <td width="50%">
-<pre>
-<code><b>Paul (He/Him)</b>
-> Exploring the intersection of metal and code.
 
-[!] Target Achieved:
-    - Designing real-world Autonomous Robots
-    - Bridging ROS Frameworks
+```properties
+# ━━━ /etc/paul.conf ━━━
 
-[!] Current Mission:
-    - Computer Engineering @ Kasetsart University
-    - Expanding Deep-Tier Full-Stack skills
-</code>
-</pre>
-    </td>
+[identity]
+name     = "Paul Wanmarat"
+alias    = "paulwanmarat"
+school   = "Saipanya Rangsit (SPR)"
+program  = "MEP-SMT"
+
+[mission.primary]
+target   = "Computer Engineering @ KU"
+status   = "IN_PROGRESS"
+
+[mission.active]
+focus[]  = "Autonomous Robotics"
+focus[]  = "ROS Architecture"
+focus[]  = "Cinematic Web Interfaces"
+
+[mission.learning]
+queue[]  = "AI / Machine Learning"
+queue[]  = "Advanced Full-Stack"
+```
+
+</td>
   </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
-  <h3>/// [ MODULE_02 ] : ARCHITECTURE_MODE ///</h3>
+
+```
+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+ ┃  ░█▀▀░█░█░█▀█░█░░░▀█▀░▀█▀░░░█▀█░█▀▄░█▀▀░█▀▀░█▀█░█  ┃
+ ┃  ░█▀▀░▄▀▄░█▀▀░█░░░░█░░░█░░░░█▀█░█▀▄░▀▀█░█▀▀░█░█░▀  ┃
+ ┃  ░▀▀▀░▀░▀░▀░░░▀▀▀░▀▀▀░░▀░░░░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀  ┃
+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
 </div>
 
 <table align="center" width="100%">
 <tr>
 <th align="center" width="50%">
- ⚙️ HARDWARE PROTOCOLS
+<pre>⚙️ HARDWARE PROTOCOLS</pre>
 </th>
 <th align="center" width="50%">
- 🌐 SOFTWARE INTERFACES
+<pre>🌐 SOFTWARE INTERFACES</pre>
 </th>
 </tr>
 <tr>
 <td align="center">
 
 ```cpp
+// ━━━ kernel/paul_hw.cpp ━━━
+
+#include <ros/ros.h>
+#include <Arduino.h>
+
 class Paul : public Engineer {
+private:
+  ROS::Node    node_;
+  GPIO::Pin    sensors_[16];
+  Serial       uart_;
+
 public:
-  void init() {
-    system.load(ROS1, ROS2);
-    hardware.attach(Arduino, RaspberryPi);
+  void boot() {
+    node_.init("paul_core");
+    for (auto& s : sensors_)
+      s.attach(INPUT);
+    ROS_INFO(">> HW ONLINE");
   }
-  
+
   void execute() {
-    while(autonomous) {
+    while (ros::ok()) {
       navigate_world();
-      solve_problems();
+      avoid_obstacles();
+      ros::spinOnce();
     }
   }
 };
 ```
-*Hardware engineered for real-world failure.*
 
 </td>
 <td align="center">
 
 ```typescript
+// ━━━ src/paul_sw.ts ━━━
+
+interface Engineer {
+  stack: readonly string[];
+  render: () => Promise<void>;
+}
+
 const paul: Engineer = {
-  stack: ["React", "TypeScript", "Tailwind"],
-  framework: "Cinematic UI/UX",
-  animations: "Framer Motion",
-  
-  execute: async () => {
-    return await render({
-      performance: "Blazing",
-      aesthetics: "Awwwards-Tier"
+  stack: [
+    "React", "TypeScript",
+    "Tailwind", "Framer Motion",
+    "Vite", "i18n"
+  ] as const,
+
+  render: async () => {
+    const ui = await build({
+      performance: "60fps",
+      aesthetics: "Awwwards-Tier",
+      animations: "Cinematic",
     });
-  }
+    console.log(">> UI DEPLOYED");
+    return ui.deploy();
+  },
 };
 ```
-*Web apps built with robotic precision.*
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
-  <h3>/// [ MODULE_03 ] : ACTIVE_LOADOUT ///</h3>
+
+```
+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+ ┃  ░█░░░█▀█░█▀█░█▀▄░█▀█░█░█░▀█▀           ┃
+ ┃  ░█░░░█░█░█▀█░█░█░█░█░█░█░░█░            ┃
+ ┃  ░▀▀▀░▀▀▀░▀░▀░▀▀░░▀▀▀░▀▀▀░░▀░            ┃
+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
 </div>
 
 <p align="center">
@@ -125,36 +199,85 @@ const paul: Engineer = {
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,figma,linux,git,vscode&theme=dark" />
 </p>
 
-<br>
+---
 
 <div align="center">
-  <h3>/// [ MODULE_04 ] : CURRENT_DEPLOYMENTS ///</h3>
+
+```
+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+ ┃  ░█▀▄░█▀▀░█▀█░█░░░█▀█░█░█░█▄█░█▀▀░█▀█░▀█▀░█▀▀                   ┃
+ ┃  ░█░█░█▀▀░█▀▀░█░░░█░█░░█░░█░█░█▀▀░█░█░░█░░▀▀█                   ┃
+ ┃  ░▀▀░░▀▀▀░▀░░░▀▀▀░▀▀▀░░▀░░▀░▀░▀▀▀░▀░▀░░▀░░▀▀▀                   ┃
+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
 </div>
 
-| SYSTEM ID | OPERATION DESCRIPTION | FIREWALL STACK |
-|-----------|-----------------------|----------------|
-| **[SPR Picture 2.0 Web App](https://sprpic.com)** | Built a high-performance, cinematic Next-Gen interface serving the student organization creatively. Implemented advanced entrance gates, interactive 3D Carousels, and intricate Web Animations. | `React`, `TS`, `Tailwind`, `Framer Motion` |
-| **Autonomous Robotics System** | Developing logic constraints and mapping nodes for real-world movement and hardware precision using ROS architectures. | `ROS`, `C++`, `Python` |
-
-<br>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  SYSTEM_ID          │  OPERATION                      │  STACK     │
+├─────────────────────┼─────────────────────────────────┼────────────┤
+│  sprpic-web-2.0     │  Cinematic student org web app  │  React/TS  │
+│                     │  with 3D carousels, gate entry  │  Tailwind  │
+│                     │  sequences & Framer Motion      │  Framer    │
+├─────────────────────┼─────────────────────────────────┼────────────┤
+│  autonomous-bot     │  Real-world robot navigation    │  ROS/C++   │
+│                     │  with sensor fusion & mapping   │  Python    │
+└─────────────────────┴─────────────────────────────────┴────────────┘
+```
 
 <div align="center">
-  <h3>/// [ PING_REQUEST ] : INITIATE_HANDSHAKE ///</h3>
 
-<a href="mailto:paulwanmarat@gmail.com"><img src="https://img.shields.io/badge/Direct_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/paul.pywt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://sprpic.com"><img src="https://img.shields.io/badge/🌐_Access_Server-0057A8?style=for-the-badge&logoColor=white" /></a>
+**[`🌐 ACCESS SPR PICTURE WEB APP →`](https://sprpic.com)**
 
-<br><br>
+</div>
 
-> *"Don't just simulate — build something that moves in the real world."*
+---
+
+<div align="center">
 
 ```
-╔═════════════════════════════════════════════════════╗
-║   Building the future, one robot & one website at   ║
-║   a time — from Bangkok to Kasetsart University.    ║
-╚═════════════════════════════════════════════════════╝
+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+ ┃  ░█▀█░▀█▀░█▀█░█▀▀░░░█▀▄░█▀▀░█▀█░█░█░█▀▀░█▀▀░▀█▀  ┃
+ ┃  ░█▀▀░░█░░█░█░█░█░░░█▀▄░█▀▀░█░█░█░█░█▀▀░▀▀█░░█░  ┃
+ ┃  ░▀░░░▀▀▀░▀░▀░▀▀▀░░░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░░▀░  ┃
+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-![Visitor System Node](https://visitor-badge.laobi.icu/badge?page_id=Paulwanmarat.Paulwanmarat&left_color=gray&right_color=00D9FF)
+</div>
+
+<div align="center">
+
+<a href="mailto:paulwanmarat@gmail.com"><img src="https://img.shields.io/badge/📧_COMMS-paulwanmarat-EA4335?style=flat-square&labelColor=0d1117" /></a>
+<a href="https://instagram.com/paul.pywt"><img src="https://img.shields.io/badge/📸_RECON-paul.pywt-E4405F?style=flat-square&labelColor=0d1117" /></a>
+<a href="https://github.com/Paulwanmarat"><img src="https://img.shields.io/badge/💻_NODE-Paulwanmarat-181717?style=flat-square&labelColor=0d1117" /></a>
+<a href="https://sprpic.com"><img src="https://img.shields.io/badge/🌐_SERVER-sprpic.com-0057A8?style=flat-square&labelColor=0d1117" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   "Don't just simulate —                                     │
+│    build something that moves in the real world."            │
+│                                                              │
+│   ┌──────────────────────────────────────────────────┐       │
+│   │  > Building the future, one robot & one website  │       │
+│   │  > at a time — from Bangkok to Kasetsart.        │       │
+│   └──────────────────────────────────────────────────┘       │
+│                                                              │
+│   [SESSION TERMINATED]                                       │
+│   [UPTIME: ∞]                                                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Paulwanmarat.Paulwanmarat&left_color=0d1117&right_color=00D9FF)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" />
+
 </div>
