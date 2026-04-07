@@ -5,18 +5,21 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=❖+SYSTEM+HACKED+%3E+LOADING+PAUL.SYS...;❖+AUTHENTICATING+ADMINISTRATOR...;❖+ACCESS+GRANTED.+WELCOME+BACK." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=❖+SYSTEM+HACKED+%3E+LOADING+PAUL.SYS...;❖+AUTHENTICATING+ADMINISTRATOR...;❖+ACCESS+GRANTED.+WELCOME+BACK." />
 
 <br>
 
 <!-- MASSIVE ASCII TITLE -->
 ```text
-    ██████╗  █████╗ ██╗   ██╗██╗         ██╗    ██╗ █████╗ ███╗   ██╗        
-    ██╔══██╗██╔══██╗██║   ██║██║         ██║    ██║██╔══██╗████╗  ██║        
-    ██████╔╝███████║██║   ██║██║         ██║ █╗ ██║███████║██╔██╗ ██║        
-    ██╔═══╝ ██╔══██║██║   ██║██║         ██║███╗██║██╔══██║██║╚██╗██║        
-    ██║     ██║  ██║╚██████╔╝███████╗    ╚███╔███╔╝██║  ██║██║ ╚████║        
-    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝        
+  ██▓███   ▄▄▄       ██▓ ██▓    
+ ▓██░  ██▒▒████▄    ▓██▒▓██▒    
+ ▓██░ ██▓▒▒██  ▀█▄  ▒██▒▒██░    
+ ▒██▄█▓▒ ▒░██▄▄▄▄██ ░██░▒██░    
+ ▒██▒ ░  ░ ▓█   ▓██▒░██░░██████▒
+ ▒▓▒░ ░  ░ ▒▒   ▓▒█░░▓  ░ ▒░▓  ░
+ ░▒ ░       ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
+ ░░         ░   ▒    ▒ ░  ░ ░   
+                ░  ░ ░      ░  ░
 ```
 
 <!-- STATUS BADGES -->
@@ -25,55 +28,51 @@
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_7-00D9FF?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/FRAMEWORK-REACT-61DAFB?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/SYSTEM-ROS-22314E?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM-ff3333?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM-b000ff?style=for-the-badge&labelColor=0d1117" />
 </p>
-
-<!-- TROPHIES -->
-<br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paulwanmarat&theme=radical&no-frame=true&no-bg=true&margin-w=15&cache_seconds=1800" />
-</a>
-
-
 
 </div>
 
 ---
 
-###  `> ./execute_profile.sh`
+### `> ./sys/core/terminal_exec.sh`
 
 <details open>
-<summary><b><kbd> 📁 /sys/core/terminal.exe &nbsp; ↲ </kbd></b></summary>
+<summary><b><kbd> 📁 /root/profile_data.json &nbsp; ↲ </kbd></b></summary>
 <br>
 
 <table width="100%">
 <tr>
-  <td width="30%" align="center">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 10px; border: 1px solid #00D9FF;" />
+  <td width="35%" align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 8px; border: 1px solid #00D9FF;" />
     <br><br>
-    <img src="https://media.giphy.com/media/VbVKjj1hXf2eQO4O6p/giphy.gif" width="100%" />
+    <img src="https://media.giphy.com/media/VbVKjj1hXf2eQO4O6p/giphy.gif" width="100%" style="border-radius: 8px; border: 1px solid #b000ff;" />
   </td>
-  <td width="70%">
+  <td width="65%">
 
 ```json
 {
   "IDENTITY": {
     "alias": "@paulwanmarat",
-    "class": "Robotics Engineer / Front-End Architect",
-    "base": "Bangkok, Thailand",
-    "directive": "Bridging Digital Experiences with Physical Robotics"
+    "role": "Robotics Developer | ROS Engineer | Competitive Programmer",
+    "location": "Bangkok, Thailand"
   },
-  "STACK_SIGNATURE": {
-    "brain": ["Algorithms", "Machine Learning", "Sensor Fusion"],
-    "hands": ["C++", "Python", "TypeScript"],
-    "tools": ["ROS", "Arduino", "React UI/UX"]
+  "MISSION": {
+    "objective_1": "Win major robotics competitions (e.g., Innovedex)",
+    "objective_2": "Secure Computer Engineering placement @ Kasetsart University",
+    "objective_3": "Master ROS2 and AI-driven Physical Systems"
   },
-  "ACHIEVEMENTS": [
-    "✅ Mastered Awwwards-Level Web Animations",
-    "✅ Deployed fully autonomous physical robots",
-    "⏳ Processing Engineering Degree @ KU"
-  ],
-  "PING": "4ms"
+  "SKILLS": {
+    "brain": ["Algorithms", "Machine Learning", "Sensor Fusion", "Computer Vision", "SLAM", "Nav2"],
+    "tools": ["ROS1", "ROS2", "Arduino", "React UI"],
+    "languages": ["C++", "Python", "TypeScript"]
+  },
+  "INTERESTS": [
+    "Robotics Competitions",
+    "CTF Cybersecurity",
+    "Embedded Systems",
+    "AI Development"
+  ]
 }
 ```
 
@@ -87,18 +86,16 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=25&duration=3000&pause=500&color=b000ff&center=true&vCenter=true&width=800&height=40&lines=>>+FETCHING+LIVE+SYSTEM+TELEMETRY+..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=500&color=b000ff&center=true&vCenter=true&width=800&height=40&lines=>>+FETCHING+LIVE+SYSTEM+TELEMETRY+..." />
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-96xb2unxo-paulpywts-projects.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true" />
-
-  <img src="https://streak-stats.demolab.com?user=Paulwanmarat&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulwanmarat&theme=radical&hide_border=true&background=0D1117" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-96xb2unxo-paulpywts-projects.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 </p>
 
 </div>
@@ -110,16 +107,16 @@
 <div align="center">
 
 <p align="center">
-  <b><code>// NEURAL INTERFACE PROTOCOLS //</code></b><br><br>
+  <b><code>// ROBOTICS & EMBEDDED CONSTRUCTS //</code></b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,c,ros,arduino,raspberrypi,linux,bash&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ros,cpp,python,c,arduino,raspberrypi,linux,bash&theme=dark&perline=12" />
   </a>
 </p>
 
 <p align="center">
-  <b><code>// DIGITAL CONSTRUCT ENGINE //</code></b><br><br>
+  <b><code>// WEB & DIGITAL INTERFACES //</code></b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nextjs,figma,nodejs,express,mysql,git,github,vscode,docker&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nextjs,figma,nodejs,git,github,vscode,docker&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -133,9 +130,10 @@
 
 | 🌌 **SYSTEM_ID / REPO** | ⚡ **OPERATION SPECIFICS** | 🏗️ **TECH CORE** |
 | :--- | :--- | :--- |
-| **[`sprpic-web-2.0`](https://sprpic.com)** | High-octane cinematic UI with **Framer Motion** & **3D Carousels** | `<React>` `<TypeScript>` `<Tailwind>` |
-| **[`autonomous-bot`](#)** | Real-world physical bot using **SLAM**, LiDAR, & Sensor Fusion | `<ROS>` `<C++>` `<Python>` |
-| **[`terminal-portfolio`](#)** | Exploring Awwwards-tier interactive experiences | `<Next.js>` `<Three.js>` |
+| **`autonomous-guest-bot`** | Autonomous robot detecting & interacting with guests using **ROS** | `<ROS>` `<Python>` `<CV>` |
+| **`smart-cane-esp32`** | ESP32 + GPS + LINE API for enhanced mobility & tracking | `<ESP32>` `<C++>` `<IoT>` |
+| **`3D-robot-arm`** | Custom 3D printed robotic arm engineered for competitions | `<Hardware>` `<Arduino>` |
+| **`face-recognition-web`** | Web-based facial recognition attendance system | `<React>` `<OpenCV>` |
 
 </div>
 
@@ -143,7 +141,7 @@
 
 <div align="center">
   <a href="https://sprpic.com">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:b000ff&height=60&text=❖%20INITIALIZE%20SPRPIC.COM%20❖&fontColor=ffffff&fontSize=20&fontAlignY=50" width="400"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:b000ff&height=60&text=❖%20INITIALIZE%20PORTFOLIO%20❖&fontColor=ffffff&fontSize=20&fontAlignY=50" width="400"/>
   </a>
 </div>
 
@@ -153,7 +151,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=30&lines=>>+SYSTEM+COMMUNICATION+LINKS+STANDBY...;>>+AWAITING+EXTERNAL+PING..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=30&lines=>>+SYSTEM+COMMUNICATION+LINKS+STANDBY...;>>+AWAITING+EXTERNAL+PING..." />
 
 <br><br>
 
