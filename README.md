@@ -15,7 +15,7 @@
 **M.6 · MEP-SMT · Saipanya Rangsit School**  
 *Building robots that move, think, and explore.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Robotics+%26+Embedded+Systems;ROS+%2F+Autonomous+Navigation;C%2B%2B+%7C+Python+%7C+Arduino;Future+Computer+Engineer+%40+KU+%F0%9F%8C%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Robotics+%26+Embedded+Systems;Mastered+%2F+ROS1+ROS2;C%2B%2B+%7C+Python+%7C+Arduino;Future+Computer+Engineer+%40+KU+%F0%9F%8C%BF)](https://git.io/typing-svg)
 
 </div>
 
