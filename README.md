@@ -135,10 +135,33 @@
 
 <br>
 
+### `> ./network/active_nodes.sh`
+
 <div align="center">
-  <a href="https://sprpic.com">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:b000ff&height=60&text=❖%20INITIALIZE%20PORTFOLIO%20❖&fontColor=ffffff&fontSize=20&fontAlignY=50" width="400"/>
-  </a>
+
+<table width="100%">
+<tr>
+  <td width="50%" align="center">
+    <br>
+    <b><code>[ NODE 1: PERSONAL MAINFRAME ]</code></b><br>
+    <i>Premium Cybernetic Portfolio</i><br><br>
+    <a href="https://phanyawat-wanmarat.vercel.app/">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b000ff,100:06b6d4&height=60&text=>>%20ACCESS%20PORTFOLIO%20<<&fontColor=ffffff&fontSize=18&fontAlignY=50" width="300" alt="Personal Portfolio"/>
+    </a>
+    <br><br>
+  </td>
+  <td width="50%" align="center">
+    <br>
+    <b><code>[ NODE 2: TEAM SPRPIC ]</code></b><br>
+    <i>Innovation & Hackathon Squad</i><br><br>
+    <a href="https://sprpic.com">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:00ff00&height=60&text=>>%20ACCESS%20SPRPIC.COM%20<<&fontColor=ffffff&fontSize=18&fontAlignY=50" width="300" alt="Team Sprpic"/>
+    </a>
+    <br><br>
+  </td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -154,7 +177,9 @@
 <a href="mailto:paulwanmarat@gmail.com"><img src="https://img.shields.io/badge/EMAIL-paulwanmarat-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://instagram.com/paul.pywt"><img src="https://img.shields.io/badge/INSTAGRAM-paul.pywt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://github.com/Paulwanmarat"><img src="https://img.shields.io/badge/GITHUB-Paulwanmarat-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://sprpic.com"><img src="https://img.shields.io/badge/WEBSITE-sprpic.com-0057A8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<br><br>
+<a href="https://phanyawat-wanmarat.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Phanyawat-b000ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://sprpic.com"><img src="https://img.shields.io/badge/TEAM-Sprpic.com-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" /></a>
 
 <br><br>
 
