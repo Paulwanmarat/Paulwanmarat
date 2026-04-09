@@ -144,7 +144,7 @@
   <td width="50%" align="center">
     <br>
     <b><code>[ NODE 1: PERSONAL MAINFRAME ]</code></b><br>
-    <i>Premium Cybernetic Portfolio</i><br><br>
+    <i>My Personal Portfolio</i><br><br>
     <a href="https://phanyawat-wanmarat.vercel.app/">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b000ff,100:06b6d4&height=60&text=>>%20ACCESS%20PORTFOLIO%20<<&fontColor=ffffff&fontSize=18&fontAlignY=50" width="300" alt="Personal Portfolio"/>
     </a>
@@ -152,8 +152,8 @@
   </td>
   <td width="50%" align="center">
     <br>
-    <b><code>[ NODE 2: TEAM SPRPIC ]</code></b><br>
-    <i>Innovation & Hackathon Squad</i><br><br>
+    <b><code>[ NODE 2: TEAM SPRPICTURE ]</code></b><br>
+    <i>Our SPR Picture Team</i><br><br>
     <a href="https://sprpic.com">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:00ff00&height=60&text=>>%20ACCESS%20SPRPIC.COM%20<<&fontColor=ffffff&fontSize=18&fontAlignY=50" width="300" alt="Team Sprpic"/>
     </a>
