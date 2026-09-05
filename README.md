@@ -60,7 +60,8 @@
   "IDENTITY": {
     "alias": "@paulwanmarat",
     "role": "Robotics Developer | ROS Engineer | Competitive Programmer",
-    "location": "Bangkok, Thailand"
+    "location": "Bangkok, Thailand",
+    "status": "Hacking the physical world 🌎"
   },
 
   "MISSION": {
@@ -78,18 +79,16 @@
       "SLAM",
       "Nav2"
     ],
-
     "tools": [
-      "ROS1",
-      "ROS2",
-      "Arduino",
-      "React UI"
+      "ROS1 / ROS2",
+      "Arduino / ESP32",
+      "React UI / Next.js",
+      "Git / Docker"
     ],
-
     "languages": [
       "C++",
       "Python",
-      "TypeScript"
+      "TypeScript / JavaScript"
     ]
   },
 
@@ -117,17 +116,18 @@
 <br>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulwanmarat&theme=radical&hide_border=true&background=0D1117" />
-
+  <a href="https://github.com/Paulwanmarat">
+    <img src="https://github-profile-trophy.vercel.app/?username=Paulwanmarat&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulwanmarat&theme=radical&hide_border=true&background=0D1117" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 </p>
 
 </div>
@@ -289,6 +289,23 @@
 
 ---
 
+### `> ./cron/system_activity_scan.sh`
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=800&height=30&lines=>>+ANALYZING+CODE+CONTRIBUTIONS...;>>+GENERATING+HEATMAP..." />
+  <br>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br>
+  <i><small>(Note: To activate the snake animation, set up a GitHub Action to generate it into the <code>output</code> branch!)</small></i>
+</div>
+
+---
+
 ### `> ./shutdown_sequence.sh`
 
 <div align="center">
@@ -298,35 +315,22 @@
 <br><br>
 
 <a href="mailto:paulwanmarat@gmail.com">
-
 <img src="https://img.shields.io/badge/EMAIL-paulwanmarat-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-
 </a>
-
 <a href="https://instagram.com/paul.pywt">
-
 <img src="https://img.shields.io/badge/INSTAGRAM-paul.pywt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
-
 </a>
-
 <a href="https://github.com/Paulwanmarat">
-
 <img src="https://img.shields.io/badge/GITHUB-Paulwanmarat-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-
 </a>
 
 <br><br>
 
 <a href="https://phanyawat-wanmarat.vercel.app/">
-
 <img src="https://img.shields.io/badge/PORTFOLIO-Phanyawat-b000ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
-
 </a>
-
 <a href="https://sprpic.com">
-
 <img src="https://img.shields.io/badge/TEAM-Sprpic.com-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
-
 </a>
 
 <br><br>
@@ -336,7 +340,7 @@
 [PROCESS EXITED WITH CODE 0]
 ```
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Paulwanmarat.Paulwanmarat\&left_color=0d1117\&right_color=00D9FF)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Paulwanmarat.Paulwanmarat&left_color=0d1117&right_color=00D9FF)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:b000ff,100:000000&height=150&section=footer&reversal=false&animation=twinkling" width="100%" />
 
