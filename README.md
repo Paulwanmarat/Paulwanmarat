@@ -5,26 +5,25 @@
 <div align="center">
 
 <!-- TOP CYBER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:050b14,70:00d9ff,100:b000ff&height=180&section=header&text=PHANYAWAT%20WANMARAT&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=%E2%9D%96%20WEB%20DEVELOPER%20%26%20FULL-STACK%20%E2%80%A2%20ROBOTICS%20PROGRAMMER%20%E2%80%A2%20SKE%20%40%20KU%20%E2%9D%96&descAlignY=65&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:050b14,70:00d9ff,100:b000ff&height=180&section=header&text=PHANYAWAT%20WANMARAT&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=%E2%9D%96%20ROS%20ENGINEER%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20ROBOTICS%20PROGRAMMER%20%E2%9D%96&descAlignY=65&descSize=16" width="100%" />
 
 <br><br>
 
 <!-- TYPING ANIMATION BANNER -->
 <a href="https://github.com/Paulwanmarat">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=24&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=950&height=50&lines=%E2%9D%96+INITIALIZING+NEURAL_LINK.SYS...;%E2%9D%96+AUTHENTICATING+OPERATOR%3A+PHANYAWAT+WANMARAT...;%E2%9D%96+SOFTWARE+%26+KNOWLEDGE+ENGINEERING+%40+KU;%E2%9D%96+STATUS%3A+ONLINE+%E2%80%A2+SYSTEMS+OPERATIONAL+%E2%80%A2+CLEARANCE+MAX." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=25&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=950&height=50&lines=%E2%9D%96+INITIALIZING+NEURAL_LINK.SYS...;%E2%9D%96+AUTHENTICATING+OPERATOR%3A+PHANYAWAT+WANMARAT...;%E2%9D%96+STATUS%3A+ONLINE+%E2%80%A2+SYSTEMS+OPERATIONAL+%E2%80%A2+CLEARANCE+LEVEL+MAX;%E2%9D%96+WELCOME+TO+THE+MAINFRAME." />
 </a>
 
 <br><br>
 
-<!-- CLEAN STANDARD ASCII TITLE -->
-
+<!-- MASSIVE ASCII TITLE -->
 ```text
-  _____  _    _  ___   _   _ __   __  ___  _    _  ___  _____ 
- |  __ \| |  | |/ _ \ | \ | |\ \ / / / _ \| |  | |/ _ \|_   _|
- | |__) | |__| | /_\ \|  \| | \ V / / /_\ \ |__| | /_\ \ | |  
- |  ___/|  __  |  _  || . ` |  | |  |  _  |  __  |  _  | | |  
- | |    | |  | | | | || |\  |  | |  | | | | |  | | | | | | |  
- |_|    |_|  |_|_| |_|_| \_|  |_|  |_| |_|_|  |_|_| |_| |_|  
+  ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗ ██╗    ██╗ █████╗ ████████╗
+  ██╔══██╗██║  ██║██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗██║    ██║██╔══██╗╚══██╔══╝
+  ██████╔╝███████║███████║██╔██╗ ██║ ╚████╔╝ ███████║██║ █╗ ██║███████║   ██║   
+  ██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║██║███╗██║██╔══██║   ██║   
+  ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ██║  ██║╚███╔███╔╝██║  ██║   ██║   
+  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   
 ```
 
 <br>
@@ -33,8 +32,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=for-the-badge&logo=opsgenie&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/MAJOR-SKE_@_KU-00D9FF?style=for-the-badge&logo=kakaotalk&logoColor=00D9FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ROLE-FULL--STACK-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/CORE-ROS2_HUMBLE-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PRIMARY_ROLE-FULL--STACK-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/SECONDARY_CORE-ROS2_HUMBLE-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM-B000FF?style=for-the-badge&logo=hackthebox&logoColor=B000FF&labelColor=0D1117" />
 </p>
 
@@ -52,15 +51,11 @@
 <tr>
   <td width="38%" align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #00D9FF;" />
+<img src="my-react-site/public/image/Paul.png" width="100%" style="border-radius: 10px; border: 2px solid #00D9FF;" alt="" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/VbVKjj1hXf2eQO4O6p/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #b000ff;" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #00ff00;" />
+<img src="my-react-site/public/image/B5.jpg" width="100%" style="border-radius: 10px; border: 2px solid #b000ff;" alt="" />
 
   </td>
 
@@ -73,6 +68,7 @@
     "name": "Phanyawat Wanmarat",
     "class": "Web Developer & Full-Stack",
     "sub_class": "Robotics Programmer & ROS Specialist",
+    "education": "Software And Knowledge Engineering (SKE) @ Kasetsart University 🎓",
     "location": "Bangkok, Thailand 🇹🇭",
     "status": "⚡ Building Next-Gen Web Platforms & Autonomous Robotics"
   },
@@ -125,39 +121,62 @@
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<b><code>// 🌐 WEB INTERFACES & FULL-STACK //</code></b>
+<b><code>// 🌐 WEB & FULL-STACK //</code></b>
 
 <br><br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nextjs,nodejs,figma,html,css,git,github&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nextjs,nodejs,figma,html,css&theme=dark&perline=3" />
 </a>
 
 <br><br>
 
 ```text
-[ REACT 19 ]  [ TYPESCRIPT ] [ TAILWIND ] [ VITE ]
-[ NEXT.JS ]   [ NODE.JS ]    [ FIGMA ]    [ GIT ]
+[ REACT 19 ]  [ TYPESCRIPT ]
+[ TAILWIND ]  [ VITE ]
+[ NEXT.JS ]   [ NODE.JS ]
 ```
 
 </td>
-<td width="50%" align="center">
 
-<b><code>// 🤖 ROBOTICS, AI & HARDWARE LAYER //</code></b>
+<td width="33%" align="center">
+
+<b><code>// 🤖 ROBOTICS & HARDWARE //</code></b>
 
 <br><br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ros,cpp,python,c,arduino,raspberrypi,linux,bash,docker,vscode&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=ros,cpp,python,c,arduino,raspberrypi,linux,bash&theme=dark&perline=3" />
 </a>
 
 <br><br>
 
 ```text
-[ ROS1/ROS2 ] [ C++20 ] [ PYTHON ] [ EMBEDDED C ]
-[ ARDUINO ]   [ R-PI ]  [ LINUX ]  [ DOCKER ]
+[ ROS1/ROS2 ] [ C++20 ]
+[ PYTHON ]    [ ARDUINO ]
+[ RASP-PI ]   [ LINUX ]
+```
+
+</td>
+
+<td width="34%" align="center">
+
+<b><code>// 🛠️ DEVOPS & WORKSPACE //</code></b>
+
+<br><br>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&theme=dark&perline=3" />
+</a>
+
+<br><br>
+
+```text
+[ DOCKER ]   [ GIT ]
+[ GITHUB ]   [ VSCODE ]
+[ POSTMAN ]  [ VERCEL ]
 ```
 
 </td>
@@ -172,24 +191,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=500&color=b000ff&center=true&vCenter=true&width=800&height=40&lines=>>+CONNECTING+TO+GITHUB+TELEMETRY+MAINFRAME...;>>+STREAMING+REALTIME+METRICS..." />
 
-<br>
+<br><br>
 
-<!-- TROPHIES -->
+<!-- STREAK STATS -->
 <p align="center">
-  <a href="https://github.com/Paulwanmarat">
-    <img src="https://github-profile-trophy.vercel.app/?username=Paulwanmarat&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4" />
-  </a>
-</p>
-
-<!-- STATS & STREAK -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulwanmarat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800&title_color=00D9FF&icon_color=00FF66" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulwanmarat&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=B000FF&currStreakNum=00FF66" />
-</p>
-
-<!-- TOP LANGS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulwanmarat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800&title_color=B000FF" />
 </p>
 
 </div>
@@ -332,7 +338,7 @@
 <br><br>
 
 <a href="https://phanyawat-wanmarat.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b000ff,100:00D9FF&height=60&text=>>%20LAUNCH%20PORTFOLIO%20<<&fontColor=ffffff&fontSize=18&fontAlignY=50" width="320" alt="Personal Portfolio"/>
+  <img src="https://img.shields.io/badge/%3E%3E_LAUNCH_PORTFOLIO_%3C%3C-B000FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" width="280" alt="Personal Portfolio"/>
 </a>
 
 <br><br>
@@ -352,7 +358,7 @@
 <br><br>
 
 <a href="https://sprpic.com">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:00FF66&height=60&text=>>%20VISIT%20SPRPIC.COM%20<<&fontColor=ffffff&fontSize=18&fontAlignY=50" width="320" alt="Team Sprpic"/>
+  <img src="https://img.shields.io/badge/%3E%3E_VISIT_SPRPIC.COM_%3C%3C-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" width="280" alt="Team Sprpic"/>
 </a>
 
 <br><br>
@@ -372,11 +378,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=800&height=30&lines=>>+ANALYZING+CODE+CONTRIBUTIONS...;>>+GENERATING+CONTRIBUTION+HEATMAP..." />
   <br><br>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Paulwanmarat/Paulwanmarat/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://ghchart.rshah.org/00D9FF/Paulwanmarat" width="100%" alt="Paulwanmarat's GitHub Contributions" />
 </div>
 
 ---
