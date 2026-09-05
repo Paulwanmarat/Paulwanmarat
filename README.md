@@ -71,17 +71,17 @@
   "OPERATOR": {
     "handle": "@paulwanmarat",
     "name": "Phanyawat Wanmarat",
-    "class": "Robotics Developer | ROS Specialist",
-    "sub_class": "Competitive Programmer & Full-Stack Architect",
+    "class": "Web Developer & Full-Stack",
+    "sub_class": "Robotics Programmer & ROS Specialist",
     "location": "Bangkok, Thailand 🇹🇭",
     "status": "⚡ Engineering Autonomous Systems & Cybernetics"
   },
 
   "CORE_DIRECTIVES": {
-    "directive_01": "🏆 Dominate national & global robotics leagues (Innovedex, @Home)",
-    "directive_02": "🎓 Computer Engineering @ Kasetsart University",
+    "directive_01": "🏆 Dominate national & global robotics leagues (@Home Robot, SiiTec Hackathon 2025)",
+    "directive_02": "🎓 Software And Knowledge Engineering @ Kasetsart University",
     "directive_03": "🤖 Master ROS2 Nav2, Sensor Fusion & SLAM Architecture",
-    "directive_04": "🛡️ Pwn CTF Cyber Security Challenges (Top 10 Cyber Top Talent)"
+    "directive_04": "🛡️ CTF Cyber Security Challenges (Top 10 Thailand Cyber Top Talent)"
   },
 
   "NEURAL_CAPABILITIES": {
